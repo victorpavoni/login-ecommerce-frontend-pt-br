@@ -1,0 +1,122 @@
+body {
+	margin: 0px;
+	padding: 0px;
+	background: rgb(248, 241, 241);
+}
+header {
+	background-color: #aa7f43;
+	position: fixed;
+	color: #9aaead;
+	width: 100%;
+}
+#header-title {
+	font-size: 32px;
+	text-align: center;
+	font-family: 'Anton', sans-serif; 
+	width: 100%;
+	letter-spacing: 1px;
+	
+}
+#header-login {
+	float: right;
+}
+section {
+	margin-top: 125px;
+	position: absolute;
+	width: 100vw;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+}
+#login-box-title {
+	font-weight: bolder;
+	font-size: 25px;
+	font-family: 'Roboto', sans-serif;
+	letter-spacing: 1px;
+}
+#main-login {
+	background-color: #fff;
+	text-align: center;
+	padding: 25px;
+	box-shadow: 0px 0px 10px black;
+	border-radius: 3px;
+}
+#email-input {
+	margin-top: 10px;
+	width: 300px;
+	height: 30px;
+	transition: 0.4s width ease-in-out;
+	border-radius: 5px;
+	box-shadow: none;
+	border: 2px solid #aa7f43;
+	padding: 0px 0px 0px 8px;
+	background-color: rgb(248, 241, 241);
+	
+}
+
+#password-input {
+	margin-top: 10px;
+	width: 300px;
+	height: 30px;
+	transition: 0.4s width ease-in-out;
+	border-radius: 5px;
+	box-shadow: none;
+	border: 2px solid #aa7f43;
+	padding: 0px 0px 0px 8px;
+	background-color: rgb(248, 241, 241);
+}
+
+
+::placeholder {
+	font-size: 15px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+#btn-input {
+	margin-top: 10px;
+	width: 310px;
+	height: 30px;
+	transition: 0.4s width ease-in-out;
+	border-radius: 5px;
+	border: none;
+	background-color: #aa7f43;
+}
+
+#input-login-check {
+	font-family: 'Roboto', sans-serif;
+	font-size: 15px;
+	padding-top: 10px;
+}
+#forgot-password a {
+	text-decoration: none;
+	color: #aa7f43;
+}
+#forgot-password {
+	padding-top: 10px;
+	font-family: 'Roboto', sans-serif;
+	font-size: 15px;
+}
+#forgot-password a:hover, #main-box-title a:hover {
+	color:#cf9d56;
+}
+#main-box-title a {
+	text-decoration: none;
+	color: #aa7f43;
+}
+footer {
+	margin-top: 450px;
+	position: absolute;
+	width: 100vw;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+}
+#main-box {
+	background-color: #fff;
+	box-shadow: 0px 0px 10px black;
+	padding: 20px 53px 20px 53px;
+	border-radius: 3px;
+	font-family: 'Roboto', sans-serif;
+}
+#hr-first {
+	padding-top: 10px;
+}
