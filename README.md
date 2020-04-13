@@ -7,8 +7,8 @@
 ```
 Tecnologias usadas(Used technology):
 * HTMl;
-* CSS; (STYLE);
-* JS (FORM VALIDATION)
+* CSS (STYLE);
+* JS (FORM VALIDATION).
 
 # Preview
 
