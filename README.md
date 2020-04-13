@@ -15,7 +15,9 @@ Tecnologias usadas(Used technology):
 ![front-ecommerce](image/front-ecommerce.jpg)
 
 # Comments
-
 ```
-Its completely responsiveness
+[PT-BR]Tem total responsividade
+```
+```
+[EN-US]Its completely responsiveness
 ```
