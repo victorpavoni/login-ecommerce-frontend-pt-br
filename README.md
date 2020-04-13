@@ -5,5 +5,8 @@
 ```
 [EN-US]Just a simple login for a e-commerce website
 ```
-
+Tecnologias usadas(Used technology):
+*HTMl;
+*CSS; (STYLE);
+*JS (FORM VALIDATION)
 ![front-ecommerce](image/front-ecommerce.jpg)
