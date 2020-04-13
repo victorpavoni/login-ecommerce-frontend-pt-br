@@ -9,4 +9,8 @@ Tecnologias usadas(Used technology):
 * HTMl;
 * CSS; (STYLE);
 * JS (FORM VALIDATION)
+
+# Preview
+
 ![front-ecommerce](image/front-ecommerce.jpg)
+
